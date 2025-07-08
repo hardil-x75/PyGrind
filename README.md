@@ -1,33 +1,33 @@
 # PyGrind 🔥
 
-Welcome to my Python journey — where every line of code is one rep toward my future.
-
-## 🎯 Vision
-- 💻 Become a skilled AI Engineer  
-- 📈 Earn 75+ LPA with real skill  
-- 🏎️ Own a dark blue Porsche  
-- 🧠 Build from zero, with discipline and focus  
-
-## 📅 Day 1: The Beginning
-- ✅ Installed Python & IDE (Pydroid3 or PC)
-- ✅ Learned:
-  - `print()` function
-  - `input()` and basic user interaction
-  - variables and simple math (`int + int`)
-- ✅ Made my first mini program (input 2 numbers and print their sum)
+> A daily grind to master Python from scratch, aiming for real-world skills, powerful logic, and eventually — AI projects.
 
 ---
 
-## 🚀 The Mission
-
-No shortcuts.  
-No distractions.  
-Just a silent grind.  
-I’m not here to flex — I’m here to build.
+## 🧠 My Vision
+- 🎯 Become an AI Engineer from scratch
+- 💻 Master Python, DSA, and real-world projects
+- 🏎️ Land a 75+ LPA job by 2029
+- 🚀 Build discipline through daily grind
 
 ---
 
-## 🗓️ Upcoming:
-- Day 2 → If-Else Logic
-- Day 3 → Loops & Flow Control
-- Day 4 → Projects & Real-World Logic
+## 📅 Daily Log
+
+### 📌 Day 1 – [Date]
+- ✅ Learned `print()`, `input()`, and variables  
+- ✅ Explored data types: `int`, `str`, `float`  
+- ✅ Tried basic arithmetic operations  
+- ✅ Wrote my first calculator
+
+---
+
+
+## 🗂️ Project Structure
+```bash
+PyGrind/
+├── Day-1/
+    ├── calculator.py
+    ├── input_basics.py
+
+...
