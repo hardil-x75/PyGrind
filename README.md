@@ -14,7 +14,7 @@
 
 ## 📅 Daily Log
 
-### 📌 Day 1 – [Date]
+### 📌 Day 1 – [08/06/2025]
 - ✅ Learned `print()`, `input()`, and variables  
 - ✅ Explored data types: `int`, `str`, `float`  
 - ✅ Tried basic arithmetic operations  
